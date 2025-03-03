@@ -1,4 +1,4 @@
-# Games of Throne - CPSC 427 Team 6 (Winter 2024)
+# Games of Throne 
 
 For Playtest Feedback and Changes, refer to the PDF in `doc/Playtest Feedback and Changes.pdf`.
 
