@@ -1,0 +1,403 @@
+{
+	"identifier": "Level_1",
+	"uniqueIdentifer": "f16b72c0-9b00-11ef-b787-d343c21b2005",
+	"x": 4096,
+	"y": 0,
+	"width": 4096,
+	"height": 2880,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "5a53d2f0-9b00-11ef-b787-5f07235b7bbd",
+			"dir": "w"
+		},
+		{
+			"levelIid": "90b4ecc0-9b00-11ef-b787-8f220b2c2eab",
+			"dir": "e"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"Floor_Tiles.png",
+		"Wall_Tiles.png"
+	],
+	"entities": {
+		"Chest": [
+			{
+				"id": "Chest",
+				"iid": "55f98640-9b00-11ef-b787-993d2ab3ff24",
+				"layer": "Fountain",
+				"x": 900,
+				"y": 8550,
+				"width": 120,
+				"height": 120,
+				"color": 7552569,
+				"customFields" : {}
+			},
+			{
+				"id": "Chest",
+				"iid": "8e75d040-9b00-11ef-86e7-a1862368ea3f",
+				"layer": "Fountain",
+				"x": 3180,
+				"y": 2580,
+				"width": 120,
+				"height": 120,
+				"color": 7552569,
+				"customFields" : {}
+			},
+			{
+				"id": "Chest",
+				"iid": "8ff459f0-9b00-11ef-86e7-c5c193b8e9e4",
+				"layer": "Fountain",
+				"x": 1260,
+				"y": 2580,
+				"width": 120,
+				"height": 120,
+				"color": 7552569,
+				"customFields" : {}
+			},
+			{
+				"id": "Chest",
+				"iid": "a64eb3d0-9b00-11ef-86e7-4958aded5ded",
+				"layer": "Fountain",
+				"x": 3660,
+				"y": 360,
+				"width": 120,
+				"height": 120,
+				"color": 7552569,
+				"customFields" : {}
+			}
+		],
+		"Minions": [
+			{
+				"id": "Minions",
+				"iid": "68c96220-9b00-11ef-86e7-313d8b70e70b",
+				"layer": "Fountain",
+				"x": 1560,
+				"y": 2280,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "69644290-9b00-11ef-86e7-ebf1685c35d7",
+				"layer": "Fountain",
+				"x": 2880,
+				"y": 2220,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "69d92470-9b00-11ef-86e7-57f7f9f1d1ff",
+				"layer": "Fountain",
+				"x": 2280,
+				"y": 2100,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "6a53f9c0-9b00-11ef-86e7-b900d69f443a",
+				"layer": "Fountain",
+				"x": 2280,
+				"y": 2580,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "08fad030-9b00-11ef-86e7-b5185738ff5b",
+				"layer": "Fountain",
+				"x": 3240,
+				"y": 2400,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "86fad5e0-9b00-11ef-86e7-3dded60eb846",
+				"layer": "Fountain",
+				"x": 960,
+				"y": 2100,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "87965290-9b00-11ef-86e7-8d4ad5db7b9b",
+				"layer": "Fountain",
+				"x": 900,
+				"y": 2580,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "888398c0-9b00-11ef-86e7-ab5249029593",
+				"layer": "Fountain",
+				"x": 1260,
+				"y": 2340,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "95325ca0-9b00-11ef-86e7-95efef9c4091",
+				"layer": "Fountain",
+				"x": 2580,
+				"y": 2400,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "97388ce0-9b00-11ef-86e7-31b14f60b248",
+				"layer": "Fountain",
+				"x": 2940,
+				"y": 480,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "97cc1a50-9b00-11ef-86e7-f7197d39e872",
+				"layer": "Fountain",
+				"x": 3420,
+				"y": 780,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "9838bed0-9b00-11ef-86e7-13181f5a0d28",
+				"layer": "Fountain",
+				"x": 3180,
+				"y": 960,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "98dcee10-9b00-11ef-86e7-f98b9c072d00",
+				"layer": "Fountain",
+				"x": 2940,
+				"y": 1140,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "99aac560-9b00-11ef-86e7-fdebd03cdce4",
+				"layer": "Fountain",
+				"x": 3360,
+				"y": 360,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			},
+			{
+				"id": "Minions",
+				"iid": "afc68fa0-9b00-11ef-86e7-2da6a54bdda5",
+				"layer": "Fountain",
+				"x": 2100,
+				"y": 660,
+				"width": 60,
+				"height": 60,
+				"color": 10626611,
+				"customFields" : {}
+			}
+		],
+		"Ranged_Minion": [
+			{
+				"id": "Ranged_Minion",
+				"iid": "f7498c00-9b00-11ef-86e7-ef4863ca78bc",
+				"layer": "Fountain",
+				"x": 2820,
+				"y": 2640,
+				"width": 60,
+				"height": 60,
+				"color": 16690740,
+				"customFields" : {}
+			},
+			{
+				"id": "Ranged_Minion",
+				"iid": "0b76ccb0-9b00-11ef-86e7-e59401155274",
+				"layer": "Fountain",
+				"x": 3000,
+				"y": 2040,
+				"width": 60,
+				"height": 60,
+				"color": 16690740,
+				"customFields" : {}
+			},
+			{
+				"id": "Ranged_Minion",
+				"iid": "9cf95420-9b00-11ef-86e7-7136039e8fec",
+				"layer": "Fountain",
+				"x": 3480,
+				"y": 1200,
+				"width": 60,
+				"height": 60,
+				"color": 16690740,
+				"customFields" : {}
+			},
+			{
+				"id": "Ranged_Minion",
+				"iid": "9e327060-9b00-11ef-86e7-136df09a4f33",
+				"layer": "Fountain",
+				"x": 2700,
+				"y": 840,
+				"width": 60,
+				"height": 60,
+				"color": 16690740,
+				"customFields" : {}
+			},
+			{
+				"id": "Ranged_Minion",
+				"iid": "9fd65c60-9b00-11ef-86e7-53e289c8f193",
+				"layer": "Fountain",
+				"x": 3120,
+				"y": 240,
+				"width": 60,
+				"height": 60,
+				"color": 16690740,
+				"customFields" : {}
+			},
+			{
+				"id": "Ranged_Minion",
+				"iid": "a0e0c780-9b00-11ef-86e7-67194ff664a6",
+				"layer": "Fountain",
+				"x": 3660,
+				"y": 600,
+				"width": 60,
+				"height": 60,
+				"color": 16690740,
+				"customFields" : {}
+			},
+			{
+				"id": "Ranged_Minion",
+				"iid": "b34bbec0-9b00-11ef-86e7-93f5242fade3",
+				"layer": "Fountain",
+				"x": 1860,
+				"y": 300,
+				"width": 60,
+				"height": 60,
+				"color": 16690740,
+				"customFields" : {}
+			}
+		],
+		"Spy": [
+			{
+				"id": "Spy",
+				"iid": "68b85d60-9b00-11ef-86e7-ad6b26bd6c18",
+				"layer": "Fountain",
+				"x": 360,
+				"y": 2400,
+				"width": 60,
+				"height": 60,
+				"color": 4073265,
+				"customFields" : {}
+			}
+		],
+		"Fountain": [
+			{
+				"id": "Fountain",
+				"iid": "4ef28360-9b00-11ef-b787-59972f37cf9a",
+				"layer": "Fountain",
+				"x": 1980,
+				"y": 780,
+				"width": 120,
+				"height": 120,
+				"color": 2943221,
+				"customFields" : {}
+			}
+		],
+		"Knight": [
+			{
+				"id": "Knight",
+				"iid": "b7540090-9b00-11ef-86e7-61a1ba0ab788",
+				"layer": "Fountain",
+				"x": 600,
+				"y": 900,
+				"width": 60,
+				"height": 60,
+				"color": 15389866,
+				"customFields" : {}
+			}
+		],
+		"Dynamic_Wall": [
+			{
+				"id": "Dynamic_Wall",
+				"iid": "973f3c40-9b00-11ef-86e7-4ba465f83b36",
+				"layer": "Fountain",
+				"x": 1260,
+				"y": 420,
+				"width": 60,
+				"height": 60,
+				"color": 16705377,
+				"customFields" : {}
+			},
+			{
+				"id": "Dynamic_Wall",
+				"iid": "97d22d70-9b00-11ef-86e7-418806e77ede",
+				"layer": "Fountain",
+				"x": 1260,
+				"y": 480,
+				"width": 60,
+				"height": 60,
+				"color": 16705377,
+				"customFields" : {}
+			},
+			{
+				"id": "Dynamic_Wall",
+				"iid": "98648260-9b00-11ef-86e7-5140cb78659c",
+				"layer": "Fountain",
+				"x": 1260,
+				"y": 540,
+				"width": 60,
+				"height": 60,
+				"color": 16705377,
+				"customFields" : {}
+			},
+			{
+				"id": "Dynamic_Wall",
+				"iid": "98f8fa30-9b00-11ef-86e7-8344fcc3a4c8",
+				"layer": "Fountain",
+				"x": 1260,
+				"y": 600,
+				"width": 60,
+				"height": 60,
+				"color": 16705377,
+				"customFields" : {}
+			}
+		]
+	}
+}
